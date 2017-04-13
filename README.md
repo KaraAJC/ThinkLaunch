@@ -3,7 +3,7 @@ _From Idea to Prototype_ | A course for DePaul University in partnership with Bl
 
 ## Session Zero: [Installfest!](installfest.md)
 ## Session One: [Ideate!](sessions/01.md)
-## Session Two: [Storify!](#)
+## Session Two: [Storify!](sessions/02.md)
 ## Session Three: [Wireframe!](#)
 ## Session Four: [Wireframe Deux!](#)
 ## Session Five: [Sketch!](#)
