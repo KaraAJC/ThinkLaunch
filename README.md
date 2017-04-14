@@ -1,3 +1,7 @@
+---
+title: Think.Launch.Code
+---
+
 # ThinkLaunch Code Academy
 _From Idea to Prototype_ | A course for DePaul University in partnership with Blue1647
 
@@ -18,6 +22,5 @@ _From Idea to Prototype_ | A course for DePaul University in partnership with Bl
 ### [Resources](resources/resources.md)
 
 
-{{page}}
-{{site.time}}
-{{site.data}}
+{{ permalink }}
+{{ page.title }}
