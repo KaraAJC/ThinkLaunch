@@ -12,8 +12,7 @@ _From Idea to Prototype_ | A course for DePaul University in partnership with Bl
 ## Session Eight: [Build MOAR!](sessions/08.md)
 ## Session Nine: [Test!](sessions/09.md)
 ## Session Ten: [Prototype!](sessions/10.md)
-## Session Eleven: [Pitch!](sessions/11.m)
+## Session Eleven: [Pitch!](sessions/11.md)
 ## Session Twelve: [Presentations!](sessions/12.md)
 
 ### [Resources](resources/resources.md)
-
