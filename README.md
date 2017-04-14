@@ -16,3 +16,8 @@ _From Idea to Prototype_ | A course for DePaul University in partnership with Bl
 ## Session Twelve: [Presentations!](sessions/12.md)
 
 ### [Resources](resources/resources.md)
+
+
+{{page}}
+{{site.time}}
+{{site.data}}
