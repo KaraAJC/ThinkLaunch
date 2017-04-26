@@ -17,6 +17,4 @@ _From Idea to Prototype_ | A course for DePaul University in partnership with Bl
 
 ### [Resources](resources/resources.md)
 
-
-{{ permalink }}
-{{ page.title }}
+### [ThinkLaunch Example Repo](https://github.com/KaraAJC/thinklaunch-example)
