@@ -41,6 +41,7 @@
 ## CSS:
 - [Learn CSS Layout](https://learnlayout.com)
 - [CodeCademy HTML/CSS Course](https://www.codecademy.com/en/tracks/htmlcss)
+- [CSS Box Model Explained](https://internetingishard.com/html-and-css/css-box-model/)
 - [Learn Materialize](http://materializecss.com/)
 - [Bulma CSS Framework](https://bulma.io)
 
