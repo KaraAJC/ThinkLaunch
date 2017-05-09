@@ -55,6 +55,19 @@
 - [DB Template](https://docs.google.com/spreadsheets/d/1c9sgq16us36K1bygqDWLI8V_7pW-Odt0qeJW3DBwltg/edit?usp=sharing)
 - [Airtable](https://airtable.com/invite/r/96gpCT4M)
 
+### Open APIs:
+- [PokeAPI - the RESTful pokemon API](http://www.pokeapi.co/)
+- [swAPI - the Star Wars API](https://swapi.co/)
+- [Chicago Open Data Portal](https://data.cityofchicago.org/)
+- [Spotify API](https://developer.spotify.com/web-api/endpoint-reference/)
+- [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+- [Open Movie Database API (OMDb)](https://www.omdbapi.com/)
+- [Intl Football Data](http://api.football-data.org/documentation)
+- [Philadelphia Train Stats API](https://www.septastats.com/api)
+- [Sunrise & Sunset API](https://sunrise-sunset.org/api)
+- [Ice & Fire API - game of thrones universe](https://anapioficeandfire.com)
+
+
 
 ## Testing:
 - [Software Testing Tutorial](http://toolsqa.com/software-testing/software-testing-tutorial/)
