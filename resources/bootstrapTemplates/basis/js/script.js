@@ -12,6 +12,7 @@
           console.log(data);
 
 // STEP FOUR! DO SOME THINGS TO THE DATA!
-
+          // loop around the data...?
+          // make stuff out of the data??
       }
   );
