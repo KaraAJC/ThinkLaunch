@@ -71,6 +71,10 @@
 
 ## Testing:
 - [Software Testing Tutorial](http://toolsqa.com/software-testing/software-testing-tutorial/)
+- [Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+- [tota11y](https://khan.github.io/tota11y/)
+- [Accessify Analytics](http://www.accessify.com/)
+
 
 ## Peer Communities:
 - [CodeNewbie](https://www.codenewbie.org)
